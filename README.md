@@ -45,6 +45,7 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Pinball Tycoon (USA) | Scoreboard renders incorrectly | ![](https://user-images.githubusercontent.com/13669774/133426666-5adbf5fc-fd34-4e16-909c-85c3e934ee89.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/177 |
 | Pokémon Emerald | Sprites in title screen are partially rendered | ![](https://user-images.githubusercontent.com/13669774/112904697-98c8ac80-90e9-11eb-9650-f3ec2792a12a.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/146 |
 | Pokémon Emerald | Fog and underwater don't blend | ![](https://media.discordapp.net/attachments/465586361731121162/805716419638460426/unknown.png) | https://github.com/mattrberry/crab/commit/805e860 |
+| Pokémon Emerald | Improper cloud "wave" effect | ![](https://user-images.githubusercontent.com/22038970/175495377-87d02295-0d2c-4851-ba4a-cdddb7ca1d44.mp4) | https://github.com/paoda/zba/issues/1 |
 | Pokémon Emerald | Stripes over logo on title screen | | https://github.com/mattrberry/crab/commit/26b521a |
 | Pokémon FireRed | Oak's feet are visible in gender selection screen | ![](https://user-images.githubusercontent.com/1358414/159525196-0870947c-e374-4f6e-88dd-4cdcb8df5f3c.png) | https://github.com/DaveTCode/GBADotnet/issues/20 |
 | Pokémon FireRed | Logo is brightened incorrectly | ![](https://user-images.githubusercontent.com/1358414/159719262-c21a6b69-f88e-4c36-b283-50f0645e783e.png) | https://github.com/DaveTCode/GBADotnet/issues/24 |
