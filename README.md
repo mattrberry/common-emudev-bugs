@@ -24,7 +24,6 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Gradius Galaxies | Black screen on boot | ![](https://user-images.githubusercontent.com/1358414/162591803-acefc6a5-29b8-4e27-bab7-f5f8bd6c4615.png) | https://github.com/DaveTCode/GBADotnet/issues/66 |
 | Gradius Galaxies | Locks up after start message | | https://github.com/DaveTCode/GBADotnet/issues/82 |
 | Gunstar Super Heroes | Layering issue between enemy and icons | ![](https://user-images.githubusercontent.com/2696404/82006731-09fe9d00-969b-11ea-93cf-5dc1c33ea79c.PNG) | https://github.com/nba-emu/NanoBoyAdvance/issues/98 |
-| Fire Emblem - The Sacred Stones | Priority issues | ![](https://user-images.githubusercontent.com/13669774/146670520-c67f64d4-a399-4916-9dec-be35cfdaba75.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/189 |
 | Fire Emblem | Logo blending is wrong | ![](https://user-images.githubusercontent.com/1358414/163053233-72128388-5f15-4003-97ef-42f830e0980a.png) | https://github.com/DaveTCode/GBADotnet/issues/77 |
 | Hamtaro Rainbow Rescue | Freezes on Spanish language selection | | https://github.com/nba-emu/NanoBoyAdvance/issues/91 |
 | Kirby: Nightmare in Dream Land | Audio clicks | | https://github.com/mattrberry/crab/commit/6c57508 |
