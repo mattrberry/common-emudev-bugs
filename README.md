@@ -33,7 +33,9 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Gunstar Super Heroes | Sprite priority issues | ![](https://user-images.githubusercontent.com/13669774/84210895-3ea71e00-aaba-11ea-93f2-a0e154605e6e.png) | https://github.com/jsmolka/eggvance/issues/2 |
 | Final Fantasy VI Advance | Continuous typing sound during intro | | https://github.com/jsmolka/eggvance/issues/15 |
 | Fire Emblem | Logo blending is wrong | ![](https://user-images.githubusercontent.com/1358414/163053233-72128388-5f15-4003-97ef-42f830e0980a.png) | https://github.com/DaveTCode/GBADotnet/issues/77 |
+| Fire Emblem: The Sacred Stones | Blue line at top of screen in cutscenes | ![](https://user-images.githubusercontent.com/13669774/133418382-d45cbcf2-312f-493c-b909-7addff75e6b4.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/175 |
 | Hamtaro Rainbow Rescue | Freezes on Spanish language selection | | https://github.com/nba-emu/NanoBoyAdvance/issues/91 |
+| Iridion 3D | Intro line glitches | ![](https://user-images.githubusercontent.com/13669774/133425829-fc5f8176-db4e-4680-88bd-e1c8471b7280.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/176 |
 | Kirby: Nightmare in Dream Land | Audio clicks | | https://github.com/mattrberry/crab/commit/6c57508 |
 | Lara Croft Tomb Raider - Legends (USA) | Stuck on black screen | | https://github.com/nba-emu/NanoBoyAdvance/issues/183 |
 | Mario & Luigi: Superstar Saga | Random hangs in intro and elsewhere | ![](https://user-images.githubusercontent.com/13669774/66221167-bbcdf800-e6ce-11e9-916a-4d1ef3971c55.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/64 |
@@ -47,6 +49,7 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Mario vs. Donkey Kong (USA, Australia) | Sprites glitch near doors or other objects | ![](https://user-images.githubusercontent.com/2696404/82133445-d2b8f900-981e-11ea-80cf-130ce68dcb92.PNG) | https://github.com/nba-emu/NanoBoyAdvance/issues/106 |
 | Mega Man Zero (U) | Title cut off on title screen | ![](https://user-images.githubusercontent.com/39786450/172510869-168060f4-c442-436d-8702-936af27cfab9.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/223 |
 | Mega Man Zero | No sound | | https://github.com/jsmolka/eggvance/issues/13 |
+| Metal Max 2 Kai (Japan) | Flashing text | | https://github.com/nba-emu/NanoBoyAdvance/issues/89 |
 | Mother 3 | Softlock when sleeping | ![](https://user-images.githubusercontent.com/29958696/113520158-7de6b400-9591-11eb-9173-2d2efa132ee9.png) | https://github.com/jsmolka/eggvance/issues/20 |
 | Mother 3 | White bars in intro don't animate into frame | ![](https://user-images.githubusercontent.com/29958696/115428866-1f613d00-a203-11eb-842f-daaf937a1b25.png) | https://github.com/jsmolka/eggvance/issues/22 |
 | OpenLara | Flickers on the bottom half of the screen | | https://github.com/DaveTCode/GBADotnet/issues/29 |
@@ -69,12 +72,14 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Racing Gears Advance | Crashes due to undefined instruction during championship load | | https://github.com/DaveTCode/GBADotnet/issues/22 |
 | Rhythm Tengoku | Crashes during boot | | https://github.com/DaveTCode/GBADotnet/issues/35 |
 | Sennen Kazoku | Freezes before going to the intro | | https://github.com/jsmolka/eggvance/issues/12 |
+| Sennen Kazoku | The clock equipment is broken | ![](https://user-images.githubusercontent.com/53250236/99110851-4fb90580-25eb-11eb-98b8-3c9beab15bcd.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/136 |
 | Sonic Advance | Breaks when skipping bios | | https://github.com/ITotalJustice/notorious_beeg/issues/67 |
 | Sonic Advance | Doesn't boot | ![](https://user-images.githubusercontent.com/1358414/160031842-c39ec433-022c-4713-9252-95e11776f465.png) | https://github.com/DaveTCode/GBADotnet/issues/39 |
 | Sonic Advance 2 | Doesn't boot | ![](https://user-images.githubusercontent.com/1358414/160031710-5ef2ec7b-5321-4138-adc8-c10e75c1fd9b.png) | https://github.com/DaveTCode/GBADotnet/issues/39 |
 | SpongeBob SquarePants (Volume 1) | "not compatible with Game Boy Player" screen repeats ad infinitum | | https://github.com/nba-emu/NanoBoyAdvance/issues/152 |
 | Spyro - Season of Ice (U)(GBA) | Glitchy line in text box | ![](https://user-images.githubusercontent.com/2696404/81910035-0963f900-95fe-11ea-8622-8945a7137215.PNG) | https://github.com/nba-emu/NanoBoyAdvance/issues/94 |
 | Spyro | Shows wrong priorities in game | ![](https://user-images.githubusercontent.com/1358414/160235146-87ecca66-bfe3-42d4-a933-60a4980a6914.png) | https://github.com/DaveTCode/GBADotnet/issues/41 |
+| Star Wars Episode II | Lines across scrolling text | ![](https://user-images.githubusercontent.com/2696404/81909561-5abfb880-95fd-11ea-9ec7-f9567626555e.PNG) | https://github.com/nba-emu/NanoBoyAdvance/issues/93 |
 | Super Monkey Ball Jr. (USA) | Saving does not work | ![](https://user-images.githubusercontent.com/2696404/83508244-35d3ac80-a4fc-11ea-96e6-f29ab323a4bd.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/110 |
 | Tactics Ogre | Odd tile effect during startup | ![](https://user-images.githubusercontent.com/1358414/159805043-84cd81f0-5787-49ce-8b85-ed9c4fbf8486.png) | https://github.com/DaveTCode/GBADotnet/issues/27 |
 | Tactics Ogre | Blending not working with windows | ![](https://user-images.githubusercontent.com/1358414/160657978-70070596-5c24-4f9c-a1a5-07fdec0052eb.png) | https://github.com/DaveTCode/GBADotnet/issues/50 |
