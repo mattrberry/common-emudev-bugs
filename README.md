@@ -97,6 +97,7 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Top Gun: Combat Zones | Cannot pick any options in main menu | | https://github.com/nba-emu/NanoBoyAdvance/issues/105 |
 | Top Gup: Combat Zones | 'A' button doesn't work in menu | ![](https://user-images.githubusercontent.com/29958696/109382967-cef4ef80-78e3-11eb-86fc-1ede3cb289e3.png) | https://github.com/jsmolka/eggvance/issues/17 |
 | V-Rally 3 | Black screen on boot | | https://github.com/ITotalJustice/notorious_beeg/issues/53 |
+| V-Rally 3 | Sky flashes while racing | ![](https://user-images.githubusercontent.com/47043333/164571435-302cdf81-9392-49f5-a324-b9a66b4dfcf6.mp4) | https://github.com/ITotalJustice/notorious_beeg/issues/54 |
 | V-Rally 3 | Sky is black | ![](https://user-images.githubusercontent.com/1358414/162641857-a1b7b138-2bf2-47c3-a5ba-d0fe0013cd05.png) | https://github.com/DaveTCode/GBADotnet/issues/74 |
 | Wario Land 4 (USA, Europe) | Sound clicks | | https://github.com/nba-emu/NanoBoyAdvance/issues/104 |
 | Wario Land 4 | Audio gets distorted after playing intro | | https://github.com/skylersaleh/SkyEmu/issues/11 |
