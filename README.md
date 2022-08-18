@@ -41,6 +41,10 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Mario & Luigi: Superstar Saga | Random hangs in intro and elsewhere | ![](https://user-images.githubusercontent.com/13669774/66221167-bbcdf800-e6ce-11e9-916a-4d1ef3971c55.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/64 |
 | Mario & Luigi: Superstar Saga | Text not appearing in the intro | | https://github.com/nba-emu/NanoBoyAdvance/issues/64 |
 | Mario & Luigi: Superstar Saga | Random white noise | | https://github.com/jsmolka/eggvance/issues/19 |
+| Mario & Luigi: Superstar Saga | Missing sprites on title screen | ![](https://user-images.githubusercontent.com/22065329/175761043-eea29bd6-f09e-4785-87c4-752c47921c68.png) | https://github.com/mattrberry/crab/issues/8 |
+| Mario & Luigi: Superstar Saga | Messed up graphics in start screen | ![](https://user-images.githubusercontent.com/22065329/175761076-ae4f147a-ed51-4890-938b-9ba9e05586f9.png) | https://github.com/mattrberry/crab/issues/9 |
+| Mario & Luigi: Superstar Saga | Completely borked graphics in game | ![](https://user-images.githubusercontent.com/22065329/175761095-748e07f8-8ebf-48d3-ae05-80791df12e09.png) | https://github.com/mattrberry/crab/issues/10 |
+| Mario & Luigi: Superstar Saga | Missing graphics in pause screen | | https://github.com/mattrberry/crab/issues/11 |
 | Mario Kart: Super Circuit | Bottom half of screen doesn't render | ![](https://user-images.githubusercontent.com/47043333/163018288-0f72acea-6ac5-41a5-b29d-6bd57b76746d.png) | https://github.com/ITotalJustice/notorious_beeg/issues/45 |
 | Mario Kart: Super Circuit | Track doesn't render | ![](https://user-images.githubusercontent.com/1358414/162591717-ef168c25-9cab-497f-b9a8-2f2c3f88944a.png) | https://github.com/DaveTCode/GBADotnet/issues/65 |
 | Mario Kart: Super Circuit | Sprites don't render properly on character selection | ![](https://user-images.githubusercontent.com/1358414/162591665-de2e9b8e-ce71-476f-b519-dd5c325af7fd.png) | https://github.com/DaveTCode/GBADotnet/issues/64 |
