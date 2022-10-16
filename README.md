@@ -19,6 +19,7 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Broken Sword: The Shadow of the Templars | Horizontal line through screen | ![](https://user-images.githubusercontent.com/1358414/162592252-e4ae5014-7665-4226-b241-f76f1fde4baa.png) | https://github.com/DaveTCode/GBADotnet/issues/69 |
 | Castlevania: Aria of Sorrow | Garbage values when entering the menu | ![](https://user-images.githubusercontent.com/29958696/103435927-52f96680-4c16-11eb-95d7-18516f7616bf.png) | https://github.com/jsmolka/eggvance/issues/11 |
 | Celeste | Audio cracking on right side | | https://github.com/jsmolka/eggvance/issues/18 |
+| Gauntlet | Wrong EEPROM size detected | ![](https://user-images.githubusercontent.com/47043333/164942590-579b41f7-105e-471b-97cc-56720083dda3.png) | https://github.com/ITotalJustice/notorious_beeg/issues/64 |
 | Donkey Kong Country | Background layers are incorrect | ![](https://user-images.githubusercontent.com/1358414/160438533-c2d22c8a-75b9-4fd4-b9d8-6d75d6c91af5.png) | https://github.com/DaveTCode/GBADotnet/issues/46 |
 | Dragonball Z - The Legacy of Goku II (Eurasia release) | Hanging during intro | ![](https://user-images.githubusercontent.com/13669774/79025528-54fe2f80-7b86-11ea-9ea2-af252351a2fd.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/83 |
 | Golden Sun | Characters render below carpet (OAM priority hijacking) | ![](https://user-images.githubusercontent.com/2696404/82008338-fd7c4380-969e-11ea-9a35-3a5d15caf287.PNG) | https://github.com/nba-emu/NanoBoyAdvance/issues/99 |
@@ -64,10 +65,12 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Pinball Tycoon (USA) | Scoreboard renders incorrectly | ![](https://user-images.githubusercontent.com/13669774/133426666-5adbf5fc-fd34-4e16-909c-85c3e934ee89.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/177 |
 | Pokémon Emerald | Sprites in title screen are partially rendered | ![](https://user-images.githubusercontent.com/13669774/112904697-98c8ac80-90e9-11eb-9650-f3ec2792a12a.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/146 |
 | Pokémon Emerald | Fog and underwater don't blend | ![](https://media.discordapp.net/attachments/465586361731121162/805716419638460426/unknown.png) | https://github.com/mattrberry/crab/commit/805e860 |
+| Pokémon Emerald | Broken fog effect | ![](https://user-images.githubusercontent.com/47043333/191386412-62ea1106-9f69-4fcd-a87a-5d8c0215dd89.png) | https://github.com/ITotalJustice/notorious_beeg/issues/97 |
 | Pokémon Emerald | Improper cloud "wave" effect | ![](https://user-images.githubusercontent.com/22038970/175495377-87d02295-0d2c-4851-ba4a-cdddb7ca1d44.mp4) | https://github.com/paoda/zba/issues/1 |
 | Pokémon Emerald | Stripes over logo on title screen | | https://github.com/mattrberry/crab/commit/26b521a |
 | Pokémon FireRed | Oak's feet are visible in gender selection screen | ![](https://user-images.githubusercontent.com/1358414/159525196-0870947c-e374-4f6e-88dd-4cdcb8df5f3c.png) | https://github.com/DaveTCode/GBADotnet/issues/20 |
 | Pokémon FireRed | Logo is brightened incorrectly | ![](https://user-images.githubusercontent.com/1358414/159719262-c21a6b69-f88e-4c36-b283-50f0645e783e.png) | https://github.com/DaveTCode/GBADotnet/issues/24 |
+| Pokémon Mystery Dungeon | Text box background doesn't fill box | ![](https://user-images.githubusercontent.com/47043333/163285263-40d84fb4-b7d4-41c1-9e7b-1786c2102b6d.png) | https://github.com/ITotalJustice/notorious_beeg/issues/51 |
 | Pokémon Pinball: Ruby & Sapphire | Tiles are displayed incorrectly during play | ![](https://user-images.githubusercontent.com/1358414/159676732-1a6664e1-97be-4a7e-8c19-34658b448afd.png) | https://github.com/DaveTCode/GBADotnet/issues/23 |
 | Pokémon Pinball: Ruby & Sapphire | Alpha blending is wrong on field select screen | ![](https://user-images.githubusercontent.com/1358414/160607600-ad302756-347b-4341-86f4-d561754f6c52.png) | https://github.com/DaveTCode/GBADotnet/issues/49 |
 | Pokémon Ruby | Black lines at top during new game sequence | ![](https://user-images.githubusercontent.com/29958696/103409711-51716500-4b68-11eb-9a69-2ddbe7b0a3b2.png) | https://github.com/jsmolka/eggvance/issues/7 |
@@ -85,6 +88,7 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Spyro | Shows wrong priorities in game | ![](https://user-images.githubusercontent.com/1358414/160235146-87ecca66-bfe3-42d4-a933-60a4980a6914.png) | https://github.com/DaveTCode/GBADotnet/issues/41 |
 | Star Wars Episode II | Lines across scrolling text | ![](https://user-images.githubusercontent.com/2696404/81909561-5abfb880-95fd-11ea-9ec7-f9567626555e.PNG) | https://github.com/nba-emu/NanoBoyAdvance/issues/93 |
 | Super Monkey Ball Jr. (USA) | Saving does not work | ![](https://user-images.githubusercontent.com/2696404/83508244-35d3ac80-a4fc-11ea-96e6-f29ab323a4bd.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/110 |
+| Sword of Mana | Audio Pops During Intro | ![](https://user-images.githubusercontent.com/47043333/164979190-4b6a7e6a-e3b5-42d5-80f9-cef6bbb55c83.png) | https://github.com/ITotalJustice/notorious_beeg/issues/69 |
 | Tactics Ogre | Odd tile effect during startup | ![](https://user-images.githubusercontent.com/1358414/159805043-84cd81f0-5787-49ce-8b85-ed9c4fbf8486.png) | https://github.com/DaveTCode/GBADotnet/issues/27 |
 | Tactics Ogre | Blending not working with windows | ![](https://user-images.githubusercontent.com/1358414/160657978-70070596-5c24-4f9c-a1a5-07fdec0052eb.png) | https://github.com/DaveTCode/GBADotnet/issues/50 |
 | Tactics Ogre | Hangs on black screen after "new game" | ![](https://user-images.githubusercontent.com/22065329/175760907-9a0d646a-a2e9-4283-9b0e-b020bae3d020.png) | https://github.com/mattrberry/crab/issues/7 |
@@ -110,4 +114,5 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Yggdra Union | Hangs on title screen | ![](https://user-images.githubusercontent.com/1358414/162641157-2657c782-c660-4e9e-81e8-58e5be6563fa.png) | https://github.com/DaveTCode/GBADotnet/issues/72 |
 | Yggdra Union | Hangs during intro | ![](https://user-images.githubusercontent.com/1358414/163144230-80c0ed53-b950-4f9c-8598-9699c147f11a.png) | https://github.com/DaveTCode/GBADotnet/issues/72 |
 | Yu-Gi-Oh! Destiny Board Traveler | Black screen on boot | | https://github.com/ITotalJustice/notorious_beeg/issues/52 |
+| Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | Bad audio in title screen | ![](https://user-images.githubusercontent.com/47043333/193606571-82095135-bf25-4df4-bed7-363bdd191c03.mp4) | https://github.com/ITotalJustice/notorious_beeg/issues/99 |
 | Yu-Gi-Oh! | Vertical lines rendered down screen | ![](https://user-images.githubusercontent.com/1358414/162641286-84c16f32-54af-4664-97fd-ed34c7719a15.png) | https://github.com/DaveTCode/GBADotnet/issues/73 |
