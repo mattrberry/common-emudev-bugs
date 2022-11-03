@@ -113,6 +113,7 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Who Wants to Be a Millionaire (Europe) | Crackling sound | | https://github.com/nba-emu/NanoBoyAdvance/issues/100 |
 | Yggdra Union | Hangs on title screen | ![](https://user-images.githubusercontent.com/1358414/162641157-2657c782-c660-4e9e-81e8-58e5be6563fa.png) | https://github.com/DaveTCode/GBADotnet/issues/72 |
 | Yggdra Union | Hangs during intro | ![](https://user-images.githubusercontent.com/1358414/163144230-80c0ed53-b950-4f9c-8598-9699c147f11a.png) | https://github.com/DaveTCode/GBADotnet/issues/72 |
+| Yoshi's Island - Super Mario Advance 3 | Text box is all black | ![](https://user-images.githubusercontent.com/15221993/199642351-1193c907-1b4d-491b-aeda-0f424019221a.png) | https://github.com/GhostRain0/GameBeanAdvance/issues/28 |
 | Yu-Gi-Oh! Destiny Board Traveler | Black screen on boot | | https://github.com/ITotalJustice/notorious_beeg/issues/52 |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | Bad audio in title screen | ![](https://user-images.githubusercontent.com/47043333/193606571-82095135-bf25-4df4-bed7-363bdd191c03.mp4) | https://github.com/ITotalJustice/notorious_beeg/issues/99 |
 | Yu-Gi-Oh! | Vertical lines rendered down screen | ![](https://user-images.githubusercontent.com/1358414/162641286-84c16f32-54af-4664-97fd-ed34c7719a15.png) | https://github.com/DaveTCode/GBADotnet/issues/73 |
